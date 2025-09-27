@@ -1,25 +1,25 @@
-# Hi there, you are in Gabrielly Luiza's profile 👋
+# Olá, você está no perfil da Gabrielly Luiza! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I'm+Gabrielly+Luiza;IT+Professional+%26+Systems+Analyst;3%2B+years+of+experience;Always+learning+new+technologies!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=35&center=true&vCenter=true&width=1000&lines=Bem-vinda+ao+meu+perfil+do+GitHub!;Eu+sou+Gabrielly+Luiza;Profissional+de+TI+%26+Analista+de+Sistemas;3%2B+anos+de+experiência;Sempre+aprendendo+novas+tecnologias!" />
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 Sobre Mim
 
-- 💼 **IT Professional** with 3+ years of experience in technical support, systems analysis and ERP/POS solutions
-- 🎓 **Student** of Systems Analysis and Development at UNASP
-- 📊 **Database Specialist** in PostgreSQL and Oracle, Power BI reports and automation with Flyway and Testcontainers
-- 🚀 **Agile enthusiast** passionate about Scrum, Kanban and workflow optimization
-- 🔍 **Open to collaborate** on projects with C#, Python or Node.js
-- 💌 **Ask me about** ERP systems, database optimization, or Power BI dashboards
-- 📍 **Location:** Mariópolis - PR, Brasil
-- ⚡ **Fun fact:** I love teaching, learning and finding smart solutions for everyday tech problems!
+- 💼 **Profissional de TI** com mais de 3 anos de experiência em suporte técnico, análise de sistemas e soluções ERP/PDV
+- 🎓 **Estudante** de Análise e Desenvolvimento de Sistemas no UNASP
+- 📊 **Especialista em bancos de dados** PostgreSQL e Oracle, relatórios Power BI e automação com Flyway e Testcontainers
+- 🚀 **Entusiasta ágil** apaixonada por Scrum, Kanban e otimização de fluxos de trabalho
+- 🔍 **Aberta para colaborar** em projetos com C#, Python ou Node.js
+- 💌 **Me pergunte sobre** sistemas ERP, otimização de bancos de dados ou dashboards no Power BI
+- 📍 **Localização:** Mariópolis - PR, Brasil
+- ⚡ **Curiosidade:** Adoro ensinar, aprender e encontrar soluções inteligentes para problemas do dia a dia na tecnologia!
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glsouzza&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
@@ -32,9 +32,9 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tecnologias e Ferramentas
 
-### **Languages**
+### **Linguagens de Programação**
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -46,67 +46,67 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### **Backend & Frameworks**
+### **Backend e Frameworks**
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-### **Databases & Analytics**
+### **Bancos de Dados e Analytics**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### **Cloud & DevOps**
+### **Cloud e DevOps**
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=black)
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experiência Profissional
 
 <details>
-<summary><b>🚀 TRR Vale da Serra Transportes - IT Analyst (Apr 2022 - Present)</b></summary>
+<summary><b>🚀 TRR Vale da Serra Transportes - Analista de TI (Abr 2022 - Presente)</b></summary>
 <br>
 
-- 🔧 **ERP/POS Systems Management:** Infrastructure management and optimization
-- 🗄️ **Database Administration:** PostgreSQL and Oracle maintenance and performance tuning
-- 🤖 **Test Automation:** Implementation with Flyway and Testcontainers
-- 👥 **User Training:** Technical training and support for end users
+- 🔧 **Gerenciamento de Sistemas ERP/PDV:** Administração de infraestrutura e otimização
+- 🗄️ **Administração de Bancos de Dados:** Manutenção PostgreSQL e Oracle com foco em performance
+- 🤖 **Automação de Testes:** Implementação com Flyway e Testcontainers
+- 👥 **Treinamento de Usuários:** Capacitação técnica e suporte aos usuários finais
 
 </details>
 
 <details>
-<summary><b>📊 Smart BR Soluções Tecnológicas - Project Analyst (Aug 2022 - Aug 2023)</b></summary>
+<summary><b>📊 Smart BR Soluções Tecnológicas - Analista de Projetos (Ago 2022 - Ago 2023)</b></summary>
 <br>
 
-- 🎯 **Scrum Master:** Led agile development teams
-- 💻 **POS Development:** Full-stack development of point-of-sale systems
-- 🔄 **CI/CD:** Implementation of continuous integration with GitLab
-- 📋 **API Documentation:** Technical documentation and UX/UI design
+- 🎯 **Scrum Master:** Liderança de equipes de desenvolvimento ágil
+- 💻 **Desenvolvimento PDV:** Desenvolvimento full-stack de sistemas de ponto de venda
+- 🔄 **CI/CD:** Implementação de integração contínua com GitLab
+- 📋 **Documentação de APIs:** Documentação técnica e design UX/UI
 
 </details>
 
 <details>
-<summary><b>🛠️ VIASOFT - Support Analyst (Sep 2021 - Apr 2022)</b></summary>
+<summary><b>🛠️ VIASOFT - Analista de Suporte (Set 2021 - Abr 2022)</b></summary>
 <br>
 
-- 🎧 **Technical Support:** ERP/POS systems troubleshooting
-- ⚡ **SQL Optimization:** Performance improvements and query optimization
-- 📚 **Knowledge Base:** Created internal documentation and procedures
+- 🎧 **Suporte Técnico:** Resolução de problemas em sistemas ERP/PDV
+- ⚡ **Otimização SQL:** Melhorias de performance e otimização de consultas
+- 📚 **Base de Conhecimento:** Criação de documentação interna e procedimentos
 
 </details>
 
 ---
 
-## 🎓 Education
+## 🎓 Formação Acadêmica
 
 **🎓 UNASP – Centro Universitário Adventista de São Paulo**  
-**CST in Systems Analysis and Development** | 2024 - 2027
+**CST em Análise e Desenvolvimento de Sistemas** | 2024 - 2027
 
 ---
 
-## 📈 GitHub Activity Graph
+## 📈 Gráfico de Atividades do GitHub
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=glsouzza&theme=synthwave&bg_color=0d1117&hide_border=true&line=ff69b4&point=ffffff&area=true&area_color=ff69b4">
@@ -114,7 +114,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Troféus do GitHub
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=glsouzza&theme=synthwave&no-frame=true&no-bg=false&margin-w=4&row=1">
@@ -122,7 +122,7 @@
 
 ---
 
-## 📞 Let's Connect!
+## 📞 Vamos nos Conectar!
 
 <div align="center">
   
@@ -134,7 +134,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=glsouzza&color=ff69b4&style=for-the-badge&label=Profile+Views">
+  <img src="https://komarev.com/ghpvc/?username=glsouzza&color=ff69b4&style=for-the-badge&label=Visualizações+do+Perfil">
   
-  ⭐ **"Technology is not just my profession, it's my passion for solving problems and creating solutions!"** ⭐
+  ⭐ **"Tecnologia não é apenas minha profissão, é minha paixão por resolver problemas e criar soluções!"** ⭐
 </div>
